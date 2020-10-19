@@ -8,7 +8,7 @@
 ## Tools Used In This Project
 - **Excel:** 2013
 - **VBA** 
-- [Inspiration:](https://www.youtube.com/watch?v=DBGOyW1uScA)
+- [Inspiration/Tutorial For This Project:](https://www.youtube.com/watch?v=DBGOyW1uScA)
 
 ## Excel columns used (In This Order.  However, the script can be updated to use different column indexes:
 - Task Detail
