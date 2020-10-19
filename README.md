@@ -8,3 +8,22 @@
 ## Tools Used In This Project
 - **Excel:** 2013
 - **VBA** 
+- [Inspiration:](https://www.youtube.com/watch?v=DBGOyW1uScA)
+
+## Excel columns used (In This Order.  However, the script can be updated to use different column indexes:
+- Task Detail
+- Calendar Invite Recipient
+- Month
+- Day
+- Year
+- Date (concatentated)
+- Date Text
+- StartTime
+- EndTime
+- Location
+- RequiredAttendee1 (email address)
+- RequiredAttendee2 (email address)
+- RequiredAttendee3 (email address)
+- RequiredAttendee4 (email address)
+- RequiredAttendee5 (email address)
+- TEST SUBJECT
